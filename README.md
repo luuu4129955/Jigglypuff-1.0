@@ -1,6 +1,6 @@
 # Jigglypuff-1.0
 [预览地址](https://crystalpeng.xyz/Jigglypuff-1.0/src/index.html])
-# 本地调式
+# 本地调试
 `parcel init`
 
 `parcel src/index.html`
